@@ -1,12 +1,12 @@
 body {
-  background: #C2FFA8;
-  background: -moz-radial-gradient(center, #C2FFA8 0%, #EB88BA 100%);
-  background: -webkit-radial-gradient(center, #C2FFA8 0%, #EB88BA 100%);
-  background: radial-gradient(ellipse at center, #C2FFA8 0%, #EB88BA 100%);%);
+  background: #7EA426;
+  background: -moz-radial-gradient(center, #7EA426 0%, #BD7CCB 50%, #C7E75D 100%);
+  background: -webkit-radial-gradient(center, #7EA426 0%, #BD7CCB 50%, #C7E75D 100%);
+  background: radial-gradient(ellipse at center, #7EA426 0%, #BD7CCB 50%, #C7E75D 100%);
 }
 
 h1 {
-  font-family: Helvetica, serif;
+  font-family: Comic Sans, serif;
   color: rgba(235, 136, 186, 10);
   text-shadow: 23px 26px 2px rgba(0,0,0,0.6);
   text size: 33px;
